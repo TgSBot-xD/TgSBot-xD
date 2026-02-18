@@ -1,8 +1,8 @@
 # Данил Солдатенко
 
-Пишу фронтенд. Начинал с Django в 15 — но когда попробовал делать интерфейсы, понял что это моё, и больше не смотрел назад.
+Фронтенд-разработчик из Уфы. Начинал с Django в 15 лет, но как только попробовал делать интерфейсы — понял, что это именно то чем хочу заниматься. С тех пор не менял курс: даже окончив колледж по другой специальности, всё равно пришёл во фронтенд.
 
-Мне важно чтобы то, что я делаю — выглядело хорошо, работало быстро и решало реальную задачу.
+За последние 2 года работал над коммерческими проектами — от корпоративных сайтов до B2B-дашбордов с real-time данными. Люблю когда всё сделано аккуратно: и код, и то, что видит пользователь.
 
 ---
 
@@ -11,20 +11,24 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## Проекты
 
-| | Проект | Стек |
-|---|---|---|
-| 🏪 | [online_store](https://github.com/TgSBot-xD/online_store) | TypeScript, React |
-| 🌆 | [landing-cyberpunk](https://github.com/TgSBot-xD/landing-cyberpunk) | JavaScript |
-| 📚 | [tutor-hub](https://github.com/TgSBot-xD/tutor-hub) | HTML — агрегатор репетиторов |
-| 🚗 | [bashavtosteklo](https://github.com/TgSBot-xD/bashavtosteklo) | HTML — сайт компании в Уфе |
+| | Проект | Стек | |
+|---|---|---|---|
+| 🏪 | [SneakMax](https://github.com/TgSBot-xD/online_store) | React 18, TypeScript, Redux Toolkit, Styled Components | [demo](https://sneakemax.netlify.app/) |
+| 🌆 | [Cyberpunk Landing](https://github.com/TgSBot-xD/landing-cyberpunk) | React 18, Redux Toolkit, CSS BEM | [demo](https://landing-cyberpunk.netlify.app/) |
+| 📚 | [tutor-hub](https://github.com/TgSBot-xD/tutor-hub) | HTML, CSS, JavaScript | — |
+| 🚗 | [БашАвтоСтекло](https://github.com/TgSBot-xD/bashavtosteklo) | Next.js 16, React 19, TypeScript, Tailwind CSS 4, FSD | [сайт](https://bashavtosteklo.ru) |
 
 ---
 
@@ -43,11 +47,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tgsbot_xd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tgsbot/)
-
----
-
-## 📬 Связаться
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tgsbot_xd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tgsbot/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falleytrd88@gmail.com)
+[![Phone](https://img.shields.io/badge/+7_987_103_97_64-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+79871039764)
