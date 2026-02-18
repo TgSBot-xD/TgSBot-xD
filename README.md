@@ -2,7 +2,7 @@
 
 Фронтенд-разработчик из Уфы. Начинал с Django в 15 лет, но как только попробовал делать интерфейсы — понял, что это именно то чем хочу заниматься. С тех пор не менял курс: даже окончив колледж по другой специальности, всё равно пришёл во фронтенд.
 
-За последние 2 года работал над коммерческими проектами — от корпоративных сайтов до B2B-дашбордов с real-time данными. Люблю когда всё сделано аккуратно: и код, и то, что видит пользователь.
+За последние 2 года работал над коммерческими проектами — от лендингов до B2B-дашбордов с real-time данными — и в каждом из них мне важно чтобы всё было сделано аккуратно: и код, что будет видеть следующий разработчик и то, что видит пользователь.
 
 ---
 
@@ -14,7 +14,6 @@
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -29,17 +28,6 @@
 | 🌆 | [Cyberpunk Landing](https://github.com/TgSBot-xD/landing-cyberpunk) | React 18, Redux Toolkit, CSS BEM | [demo](https://landing-cyberpunk.netlify.app/) |
 | 📚 | [tutor-hub](https://github.com/TgSBot-xD/tutor-hub) | HTML, CSS, JavaScript | — |
 | 🚗 | [БашАвтоСтекло](https://github.com/TgSBot-xD/bashavtosteklo) | Next.js 16, React 19, TypeScript, Tailwind CSS 4, FSD | [сайт](https://bashavtosteklo.ru) |
-
----
-
-## Статистика
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TgSBot-xD)](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TgSBot-xD&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
