@@ -26,7 +26,7 @@
 |---|---|---|---|
 | 🏪 | [SneakMax](https://github.com/TgSBot-xD/online_store) | React 18, TypeScript, Redux Toolkit, Styled Components | [demo](https://sneakemax.netlify.app/) |
 | 🌆 | [Cyberpunk Landing](https://github.com/TgSBot-xD/landing-cyberpunk) | React 18, Redux Toolkit, CSS BEM | [demo](https://landing-cyberpunk.netlify.app/) |
-| 📚 | [tutor-hub](https://github.com/TgSBot-xD/tutor-hub) | HTML, CSS, JavaScript | — |
+| 📚 | [tutor-hub](https://github.com/TgSBot-xD/tutor-hub) | React 19, NextJS, MultiZone, Tailwind CSS 4 | — |
 | 🚗 | [БашАвтоСтекло](https://github.com/TgSBot-xD/bashavtosteklo) | Next.js 16, React 19, TypeScript, Tailwind CSS 4, FSD | [сайт](https://bashavtosteklo.ru) |
 
 ---
